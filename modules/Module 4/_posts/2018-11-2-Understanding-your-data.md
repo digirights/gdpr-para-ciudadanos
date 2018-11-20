@@ -1,8 +1,8 @@
 ---
-title: Understanding and requesting your data
+title: Understanding your data
 ---
 
-# Topic 1: Understanding and requesting your data
+# Understanding and requesting your data
 &nbsp;
 
 It is useful and often necessary to initiate the process of exercising all your rights by requesting your data with a SAR. This allows you to request correction of your data or for it to be deleted, for example. To correct your information, you first need to know what’s incorrect. Likewise, before asking to delete your personal data from the organisation’s database, you should ask a copy of it for yourself. In some cases, you’ll be able to use it again in another service and make it work better for you. 
