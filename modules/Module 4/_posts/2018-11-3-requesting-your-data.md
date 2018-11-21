@@ -11,6 +11,7 @@ Here’s a list of types of organisations, that might help you in finding out wh
 &nbsp;
 
 ![alt text](https://raw.githubusercontent.com/digirights/course-in-a-box/gh-pages/img/Business_sectors.jpg "Business sectors that probably have personal data of you")
+
 &nbsp;
 
 ### 2. Find out what information they might collect about you
@@ -18,12 +19,10 @@ Here’s a list of types of organisations, that might help you in finding out wh
 Go to their web page and have a look at their privacy notice or policy on data protection, which is usually linked to at the bottom of the page. It should tell you, what kind of information they store about you. Generally, this information is not elaborated exhaustively. Thus, it is usually a good idea to ask for all of your personal data and you might find out information that you didn’t even know they had. Very possibly, they have data of you that they received from third parties, too.
 
 &nbsp;
-
 For example, here is a list of types of personal data Finnair has of its passengers:
 <https://www.finnair.com/in/gb/privacy-policy#personal-data>
 
 &nbsp;
-
 ### A privacy notice should always include at least these six items:
 
 1. the personal data collected, including cookies on their website
