@@ -9,10 +9,12 @@ It is useful and often necessary to initiate the process of exercising all your 
 &nbsp;
 Seeing the data that companies have of you, gives you a better idea how they evaluate you and might even give new insights of yourself. For example, it could be in the form of using the data from the public transportation system to determine which ticket suits best for you.
 &nbsp;
+
 ## Overview of the process requesting your data
 
 Asking your personal data from a company can be a tricky process, however. Lucky for you, we’re here to guide you through it! In this topic we will have a look at the overall process of creating a SAR for your desired purpose. So no need to worry, we will do it step by step:
 &nbsp;
+
 ### The process:
 
 1. Determine an organization with interesting data about you
