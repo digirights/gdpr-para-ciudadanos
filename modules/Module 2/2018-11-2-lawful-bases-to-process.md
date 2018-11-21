@@ -42,4 +42,4 @@ An example: Private water companies are likely to be able to rely on the public 
 
 &nbsp;
 
-_**However, an individual always has the right to object to processing for the purposes of direct marketing, whatever lawful basis applies.
+**_However, an individual always has the right to object to processing for the purposes of direct marketing, whatever lawful basis applies._**
