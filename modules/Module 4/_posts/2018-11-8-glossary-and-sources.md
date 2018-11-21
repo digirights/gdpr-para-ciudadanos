@@ -4,10 +4,6 @@ title: Glossary and sources
 # Glossary and sources:
 
 &nbsp;
-
-### Glossary
-&nbsp;
-
 &nbsp;
 
 **Cookies** = A small text file (up to 4KB) created by a website that is stored in the user's computer either temporarily for that session only or permanently on the hard disk (persistent cookie). Cookies provide a way for the website to recognize you and keep track of your preferences.
@@ -27,4 +23,5 @@ title: Glossary and sources
 &nbsp;
 
 The British Information Commissioner's Office:
+&nbsp;
 <https://ico.org.uk/media/for-organisations/documents/2259722/subject-access-code-of-practice.pdf>
