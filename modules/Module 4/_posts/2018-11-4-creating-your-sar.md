@@ -46,6 +46,8 @@ Here are a few examples of websites and their footers (bottom of the web page), 
 
 After inserting the necessary contact details, we’ve introduced ourselves and expressed our knowledge of our rights and quoted the right articles for added effect.
 
+&nbsp;
+
 After this, you can copy the paragraphs you want and we will now explain what effects each of them have:
 
 1. Asking whether you personal data is being used? If so, ask for specific categories of data they have of you and request access to it
@@ -62,5 +64,7 @@ If you don’t want to copy and paste from our template, you can also try making
 &nbsp;
 
 Here’s a page from the Finnish Data Protection Authority’s website concerning your right to access your own data, for additional guidance: <https://tietosuoja.fi/en/when-you-want-to-inspect-your-data>
+
+&nbsp;
 
 After you’ve written the SAR, you can send it to the relevant party, by **post or by email.**
