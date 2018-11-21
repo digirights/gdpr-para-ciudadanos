@@ -35,8 +35,11 @@ An example: Private water companies are likely to be able to rely on the public 
 &nbsp;
 
 **(f) Legitimate interests:** the processing is necessary for your legitimate interests or the legitimate interests of a third party unless there is a good reason to protect the individual’s personal data which overrides those legitimate interests. (This cannot apply if you are a public authority processing data to perform your official tasks.)
-An example: You make a pizza purchase online by submitting the delivery address to the pizza merchant. The merchant has legitimate interest in fulfilling the delivery, where the processing of the subject’s personal data (address) also passes the “necessary” requirement.
 
 &nbsp;
 
-However, an individual always has the right to object to processing for the purposes of direct marketing, whatever lawful basis applies.
+- An example: You make a pizza purchase online by submitting the delivery address to the pizza merchant. The merchant has legitimate interest in fulfilling the delivery, where the processing of the subject’s personal data (address) also passes the “necessary” requirement.
+
+&nbsp;
+
+_**However, an individual always has the right to object to processing for the purposes of direct marketing, whatever lawful basis applies.
