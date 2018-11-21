@@ -22,8 +22,6 @@ Go to their web page and have a look at their privacy notice or policy on data p
 For example, here is a list of types of personal data Finnair has of its passengers:
 <https://www.finnair.com/in/gb/privacy-policy#personal-data>
 
-Here’s an alternative privacy policy, that looks very well thought out, only in Finnish, however: <https://www.karhuhelsinki.fi/static/tietosuojaseloste/>
-
 &nbsp;
 
 ### A privacy notice should always include at least these six items:
