@@ -6,7 +6,7 @@ title: Creating your SAR
 
 ### Articulate your Subject Access Request (SAR)
 
-Now you need to think what do you want to accomplish with your request. We’ve made an example Subject Access Request here: https://docs.google.com/document/d/1YXP6j1MJdWuDzpgxSlqArGcJ22kv_wYE6Kk0_Q4KvIM/edit?usp=sharing
+Now you need to think what do you want to accomplish with your request. We’ve made an example Subject Access Request here: <https://docs.google.com/document/d/1YXP6j1MJdWuDzpgxSlqArGcJ22kv_wYE6Kk0_Q4KvIM/edit?usp=sharing>
 
 There are a few good paragraphs we’ve picked for you to use, depending on what right you want to exercise. Instead of just using one of them, we encourage you to use a few of them or even all of them, if appropriate. As a rule, there’s no harm in asking.
 
@@ -22,9 +22,9 @@ Here are a few examples of websites and their footers (bottom of the web page), 
 
 ![alt text](https://raw.githubusercontent.com/digirights/course-in-a-box/gh-pages/img/Finnair_footer.jpg "Footer of Finnair's website")
 
-https://ico.org.uk/global/privacy-notice/
+<https://ico.org.uk/global/privacy-notice/>
 
-https://www.finnair.com/gb/gb/privacy-policy
+<https://www.finnair.com/gb/gb/privacy-policy>
 
 ### Choosing the right paragraphs for the SAR
 
@@ -44,8 +44,8 @@ After this, you can copy the paragraphs you want and we will now explain what ef
 
 6. Ask which legal basis is used to process your data per category.
 
-If you don’t want to copy and paste from our template, you can also try making your request in a data request platform, like the one Paul-Olivier Dehaye has setup: https://personaldata.io
+If you don’t want to copy and paste from our template, you can also try making your request in a data request platform, like the one Paul-Olivier Dehaye has setup: <https://personaldata.io>
 
-Here’s a page from the Finnish Data Protection Authority’s website concerning your right to access your own data, for additional guidance: https://tietosuoja.fi/en/when-you-want-to-inspect-your-data
+Here’s a page from the Finnish Data Protection Authority’s website concerning your right to access your own data, for additional guidance: <https://tietosuoja.fi/en/when-you-want-to-inspect-your-data>
 
 After you’ve written the SAR, you can send it to the relevant party, by post or by email.
