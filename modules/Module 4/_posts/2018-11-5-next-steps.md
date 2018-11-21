@@ -11,6 +11,8 @@ Here’s a few possible scenarios that could happen after receiving your request
 
 ### 1. Everything went well and you received all the information you requested
 
+Great job! You have made a good data request and the organisation has been able to comply - it's all good!
+
 &nbsp;
 
 ### 2. You’ve received information as per your request but feel it’s incomplete
