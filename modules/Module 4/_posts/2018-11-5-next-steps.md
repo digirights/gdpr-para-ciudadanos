@@ -5,11 +5,15 @@ title: Next steps
 
 &nbsp;
 
-If you’ve done everything correctly (compare your data request with our template), you can expect to get an answer within 1 month. The provider can try to deny your request with cause. If this cause is not appropriate, i.e. based on the GDPR, then reply and raise a complaint with your country’s Data Protection Authority. They can also request up to an additional two months time depending on the situation. The requested data should be delivered within 3 months as a maximum .
+If you’ve done everything correctly (compare your data request with our template), you can expect to get an answer within one month. The provider can try to deny your request with cause. If this cause is not appropriate, i.e. based on the GDPR, then reply and raise a complaint with your country’s Data Protection Authority. They can also request up to an additional two months time depending on the situation. The requested data should be delivered within three months as a maximum .
 
 Here’s a few possible scenarios that could happen after receiving your request. They are examples based on our own experiences, that we had in our events around the date the GDPR came into force.
 
+&nbsp;
+
 ### 1. Everything went well and you received all the information you requested
+
+&nbsp;
 
 Great job! You have made a good data request and the organisation has been able to comply - it's all good!
 
