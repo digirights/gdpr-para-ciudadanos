@@ -6,7 +6,6 @@ title: Exercises
 &nbsp;
 
 ### Task 1:
-
 &nbsp;
 
 Make or plan to make your own SAR.
@@ -17,7 +16,6 @@ Go through the process outlined in this module. Document your process in a A4 pa
 &nbsp;
 
 ### Task 2:
-
 &nbsp;
 
 - Feedback from making the SAR
