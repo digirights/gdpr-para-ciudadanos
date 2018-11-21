@@ -5,8 +5,8 @@ title: Creating your SAR
 &nbsp;
 
 ### Articulate your Subject Access Request (SAR)
-
 &nbsp;
+
 Now you need to think what do you want to accomplish with your request. We’ve made an example Subject Access Request here: <https://docs.google.com/document/d/1YXP6j1MJdWuDzpgxSlqArGcJ22kv_wYE6Kk0_Q4KvIM/edit?usp=sharing>
 
 &nbsp;
