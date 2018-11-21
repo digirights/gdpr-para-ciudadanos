@@ -36,10 +36,13 @@ Here are a few examples of websites and their footers (bottom of the web page), 
 <https://ico.org.uk/global/privacy-notice/>
 
 <https://www.finnair.com/gb/gb/privacy-policy>
+&nbsp;
 
 &nbsp;
 
 ### Choosing the right paragraphs for the SAR
+
+&nbsp;
 
 After inserting the necessary contact details, we’ve introduced ourselves and expressed our knowledge of our rights and quoted the right articles for added effect.
 
@@ -60,4 +63,4 @@ If you don’t want to copy and paste from our template, you can also try making
 
 Here’s a page from the Finnish Data Protection Authority’s website concerning your right to access your own data, for additional guidance: <https://tietosuoja.fi/en/when-you-want-to-inspect-your-data>
 
-After you’ve written the SAR, you can send it to the relevant party, by post or by email.
+After you’ve written the SAR, you can send it to the relevant party, by **post or by email.**
