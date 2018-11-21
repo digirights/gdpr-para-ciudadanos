@@ -18,9 +18,11 @@ Go through the process outlined in this module. Document your process in a A4 pa
 &nbsp;
 
 ### Task 2:
+
 &nbsp;
 
-- Feedback from making the SAR
+**Feedback from making the SAR:**
+
 - What was your overall feeling, was it easy, hard, boring, exciting or something else?
 - What was hard/easy about it?
 - What was surprising?
