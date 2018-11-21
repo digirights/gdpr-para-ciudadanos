@@ -7,6 +7,7 @@ title: Requesting your data
 ### 1. Deciding which organisations have the most interesting data about you
 
 Here’s a list of types of organisations, that might help you in finding out which of them would have the most interesting data of you. It’s not an exhaustive list and we’d be glad to add your favourite in it too.
+
 &nbsp;
 
 ![alt text](https://raw.githubusercontent.com/digirights/course-in-a-box/gh-pages/img/Business_sectors.jpg "Business sectors that probably have personal data of you")
@@ -27,9 +28,9 @@ Here’s an alternative privacy policy, that looks very well thought out, only i
 
 ### A privacy notice should always include at least these six items:
 
-**1.** the personal data collected, including cookies on their website
-**2.** how they process your data
-**3.** third parties with whom the organisation has shared your data with
-**4.** how people can access and request changes to their information
-**5.** how the organisation notifies consumers of material changes to your privacy policy
-**6.** the effective date of your privacy policy
+1. the personal data collected, including cookies on their website
+2. how they process your data
+3. third parties with whom the organisation has shared your data with
+4. how people can access and request changes to their information
+5. how the organisation notifies consumers of material changes to your privacy policy
+6. the effective date of your privacy policy
