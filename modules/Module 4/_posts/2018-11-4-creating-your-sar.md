@@ -7,7 +7,7 @@ title: Creating your SAR
 ### Articulate your Subject Access Request (SAR)
 
 Now you need to think what do you want to accomplish with your request. We’ve made an example Subject Access Request here: <https://docs.google.com/document/d/1YXP6j1MJdWuDzpgxSlqArGcJ22kv_wYE6Kk0_Q4KvIM/edit?usp=sharing>
-
+&nbsp;
 There are a few good paragraphs we’ve picked for you to use, depending on what right you want to exercise. Instead of just using one of them, we encourage you to use a few of them or even all of them, if appropriate. As a rule, there’s no harm in asking.
 
 In our letter, there is the address details of the relevant person or department complying with your request. You can try to find a self-service portal, the contact details of the Data Protection Officer (DPO), or other designated address to send your request to.
