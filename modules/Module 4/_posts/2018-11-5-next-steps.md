@@ -5,7 +5,8 @@ title: Next steps
 
 &nbsp;
 
-If you’ve done everything correctly (compare your data request with our template), you can expect to get an answer within one month. The provider can try to deny your request with cause. If this cause is not appropriate, i.e. based on the GDPR, then reply and raise a complaint with your country’s Data Protection Authority. They can also request up to an additional two months time depending on the situation. The requested data should be delivered within three months as a maximum .
+If you’ve done everything correctly (compare your data request with our template), you can expect to get an answer within one month. The provider can try to deny your request with cause. If this cause is not appropriate, i.e. based on the GDPR, then reply and raise a complaint with your country’s Data Protection Authority. They can also request up to an additional two months time depending on the situation. The requested data should be delivered within three months as a maximum.
+&nbsp;
 
 Here’s a few possible scenarios that could happen after receiving your request. They are examples based on our own experiences, that we had in our events around the date the GDPR came into force.
 
@@ -24,6 +25,7 @@ Great job! You have made a good data request and the organisation has been able 
 &nbsp;
 
 If they haven’t answered all your questions in your request, such as:
+&nbsp;
 
 - listing for specific categories of data they have of you
 - a list of all the third parties, they shared your data with
@@ -41,15 +43,12 @@ If they haven’t answered all your questions in your request, such as:
 &nbsp;
 
 This is common in cases, where the organisation doesn’t have an electronic data portal that you might log into and prove your identity to their satisfaction. You might even be asked to go and identify yourself in person, but that is an unnecessary threshold you need not to comply with. They should to be able to confirm your identity through more convenient means. 
-
 &nbsp;
 
 For example, if they receive a data request from an email that is on their customer database, but the physical address you are asking them to send it to differs from theirs, it is reasonable for them to ask for proof of your new address. A recent utility bill should do the trick. The security measures taken in confirming your identity should be proportionate to the possible ramifications that would follow a possible data leak.
-
 &nbsp;
 
 You need to comply with their requests for additional information, as long as they are reasonable. If you feel the organisation’s demands are not, it might be a good idea to ask the data ombudsman (Data Protect Authority in your country) to clarify, whether the organisation’s request should be complied with. In case they’re not complying with your  requests, you should again contact the data ombudsman to see, if they think the organisation is right in refusing to comply.
-
 &nbsp;
 
 To find the DPA of your country, search for: 
