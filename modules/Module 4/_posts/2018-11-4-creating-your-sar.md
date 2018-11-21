@@ -22,6 +22,8 @@ Here are a few examples of websites and their footers (bottom of the web page), 
 
 ![alt text](https://raw.githubusercontent.com/digirights/course-in-a-box/gh-pages/img/Finnair_footer.jpg "Footer of Finnair's website")
 
+<https://tietosuoja.fi/en/our-data-protection-policy>
+
 <https://ico.org.uk/global/privacy-notice/>
 
 <https://www.finnair.com/gb/gb/privacy-policy>
