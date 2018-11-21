@@ -1,7 +1,7 @@
 ---
 title: Lawful bases of process
 ---
-# What are the lawful bases for processing?
+# What are the lawful bases for processing personal data?
 
 &nbsp;
 
