@@ -12,7 +12,7 @@ Seeing the data that companies have of you, gives you a better idea how they eva
 
 ## Overview of the process requesting your data
 
-Asking your personal data from a company can be a tricky process, however. Lucky for you, we’re here to guide you through it! In this topic we will have a look at the overall process of creating a SAR for your desired purpose. So no need to worry, we will do it step by step:
+Asking your personal data from a company can be a tricky process, however. Lucky for you, we’re here to guide you through it! In this topic we will have a look at the overall process of creating a SAR for your desired purpose. So no need to worry, we will do it step by step.
 &nbsp;
 
 ### The process:
