@@ -23,9 +23,11 @@ Another couple of people asked for their data from a retail chain’s loyalty pr
 Like we’ve said, getting your data can be tricky. Here are some problems we’ve encountered so far. We would love to hear your experiences on your own data request, too! By collecting these experience together, we can navigate the process better and possibly avoid the most common problems altogether.
 
 **No legal reason to comply**
+
 This means that the organisation, the data controller, from which the person is requesting their data from, does not need to send you your personal data that you requested. However, they have to give the reasons of their refusal in writing and those reasons have to based on law. If you think that there were no legal grounds for the refusal you can contact your country’s Data Protection Authority for advice.
 
 **Not finding contact details where to send the data request to**
+
 Pinterest has some 200 million users, but they certainly weren’t GDPR compliant, when on 26.5. we tried to look for their Data Protection Officer’s contact details.
 
 Here’s a little slideshow to show what kind information they had displayed: <https://docs.google.com/presentation/d/1yV28pSxD2EnA-AvWcpcoj2J6T3ZuZfEtHRcADLxrJV0/edit?usp=sharing>
