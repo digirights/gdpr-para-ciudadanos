@@ -1,5 +1,5 @@
 ---
-title: Right to restrict
+title: Right to restrict processing
 ---
 # Topic 7: Right of restricting the use of your data
 
