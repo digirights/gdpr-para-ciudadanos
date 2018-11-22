@@ -5,7 +5,7 @@ title: Lawful bases of process
 
 &nbsp;
 
-The lawful bases for processing are set out in Article 6 of the GDPR. At least one of these must apply whenever an organisation processes personal data:
+The lawful bases for processing are set out in [Article 6 of the GDPR](https://gdpr-info.eu/art-6-gdpr/). At least one of these must apply whenever an organisation processes personal data:
 
 &nbsp;
 
