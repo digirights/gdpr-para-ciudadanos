@@ -6,7 +6,7 @@ title: Know how your data is used
 
 &nbsp;
 
-You have the right to know how your personal data is gathered and processed. Any legal organisation collecting your data is a controller. A controller must provide you with the name of their legal identity, why they collect your data and for how long they store it. They must also disclose to you, with whom they share the data and what your rights are (immediately if you fill a form). If they collect data about you from someone else, you must be informed within a month.
+You have the right to know how your personal data is gathered and processed. Any legal organisation collecting your data is a controller. 
 
 &nbsp;
 
