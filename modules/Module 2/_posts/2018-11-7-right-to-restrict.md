@@ -37,4 +37,4 @@ If the controller restricts the processing of your data, it must communicate the
 
 &nbsp;
 
-If you feel that the controller did not have legal grounds for its refusal, you can contact the Data Protection Authority if necessary. To find the DPA of your country, search for: “ Data Protection Authority of _NAME_OF_YOUR_COUNTRY_HERE_ ”.
+If you feel that the controller did not have legal grounds for its refusal, you can contact the Data Protection Authority if necessary. Here’s a list of the [European Data Protection Authorities](https://edpb.europa.eu/about-edpb/board/members_en).
