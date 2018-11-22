@@ -5,10 +5,6 @@ title: Deny machine made decisions
 
 &nbsp;
 
-You have the right to restrict the use of your data if the controller no longer needs the data for the original purpose or if they are not processed lawfully but you still do not want them erased completely. You also have this right if you consider the data to be inaccurate or you have objected to the use of your information but the decision is still pending.
-
-&nbsp;
-
 You have the right to have a human involvement in the decisions concerning you. Some decisions might be made on the basis of your personal data automatically, without human intervention.
 
 &nbsp;
