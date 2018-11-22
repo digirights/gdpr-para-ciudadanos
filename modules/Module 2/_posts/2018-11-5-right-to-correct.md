@@ -33,4 +33,4 @@ The controller is required to reply to your request within one month. If the req
 
 &nbsp;
 
-If the controller refuses to rectify the data you have requested, it must state the reasons for its refusal. The refusal must always be based on law. If you feel that the controller did not have legal grounds for its refusal, you can contact the Data Protection Authority if necessary. To find him, search for: “ Data Protection Authority of _NAME_OF_YOUR_COUNTRY_HERE_”.
+If the controller refuses to rectify the data you have requested, it must state the reasons for its refusal. The refusal must always be based on law. If you feel that the controller did not have legal grounds for its refusal, you can contact the Data Protection Authority if necessary. To find them, search for: “ Data Protection Authority of _NAME_OF_YOUR_COUNTRY_HERE_”.
