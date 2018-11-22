@@ -9,7 +9,7 @@ You have the right to demand the rectification of inaccurate personal data conce
 
 &nbsp;
 
-To rectify this data, contact the controller's data protection officer, like we do in module 4. Use precise language in your request. Specify your name and contact details. Specify the data to be changed and the corrected version.
+To rectify this data, contact the controller's data protection officer, [like we do in module 4](https://digirights.github.io/course-in-a-box/modules/module%204/creating-your-sar/). Use precise language in your request. Specify your name and contact details. Specify the data to be changed and the corrected version.
 
 &nbsp;
 
